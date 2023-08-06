@@ -30,5 +30,5 @@ Specialization link: https://coursera.org/share/5e854f74b3d15b627e67d09e316bdb49
 + Demonstrated proficiency in deploying and utilizing machine learning models on Vertex AI, enhancing cloud-based deployment expertise.
 
 
-![image](Asset/pred_classifying Images_on_google_cloud.png)
-![image](Asset/pred_classifying Images_on_google_cloud2.png)
+![Inference](https://github.com/ktchan33GBC/Advanced_ML_on_Google_Cloud/blob/main/Asset/pred_classifying%20Images_on_google_cloud.png)
+![Result](https://github.com/ktchan33GBC/Advanced_ML_on_Google_Cloud/blob/main/Asset/pred_classifying%20Images_on_google_cloud2.png)
