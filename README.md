@@ -21,3 +21,14 @@ This specialization picks up where “Machine Learning on GCP” left off and te
 Specialization link: https://coursera.org/share/5e854f74b3d15b627e67d09e316bdb49
 
 
+## Projects
+
+### 1.Classifying Images with pre-built TF Container on Vertex AI of Google Cloud 
+
++ Implemented and compared DNN and CNN models for accurate MNIST image classification.
++ Showcased the application of dropout techniques to improve DNN performance.
++ Demonstrated proficiency in deploying and utilizing machine learning models on Vertex AI, enhancing cloud-based deployment expertise.
+
+
+![image](Asset/pred_classifying Images_on_google_cloud.png)
+![image](Asset/pred_classifying Images_on_google_cloud2.png)
