@@ -23,7 +23,8 @@ Specialization link: https://coursera.org/share/5e854f74b3d15b627e67d09e316bdb49
 
 ## Projects
 
-### 1.Classifying Images with pre-built TF Container on Vertex AI of Google Cloud 
+### 1.Image Classification using Pre-built TF Container on Google Cloud's Vertex AI
+
 
 + Implemented and compared DNN and CNN models for accurate MNIST image classification.
 + Showcased the application of dropout techniques to improve DNN performance.
@@ -32,3 +33,22 @@ Specialization link: https://coursera.org/share/5e854f74b3d15b627e67d09e316bdb49
 
 ![Inference](https://github.com/ktchan33GBC/Advanced_ML_on_Google_Cloud/blob/main/Asset/pred_classifying%20Images_on_google_cloud.png)
 ![Result](https://github.com/ktchan33GBC/Advanced_ML_on_Google_Cloud/blob/main/Asset/pred_classifying%20Images_on_google_cloud2.png)
+
+
+
+
+
+
+
+
+### 2.Collaborative Filtering Using Google Analytics Data
+
+[Data Source : cloud-training-demos.GA360_test.ga_sessions_sample](https://console.cloud.google.com/bigquery?p=cloud-training-demos&d=GA360_test&t=ga_sessions_sample&page=table&_ga=2.226310938.1230602964.1691461399-1716876585.1690406598&_gac=1.222497257.1690724799.CjwKCAjwlJimBhAsEiwA1hrp5rVjzItB14kppB0EPevjwaM49eN__Qp-0PAaSTtUyNDNynse9ACipBoCgL0QAvD_BwE)
+
++ Effectively applied WALS matrix factorization for collaborative filtering on Google Analytics data.
++ Demonstrated the ability to handle implicit feedback using time-spent on the page as a proxy for user preferences.
++ Gained practical experience in deploying and visualizing collaborative filtering models with principal components analysis,and running Model on Google Cloud
+
+
+![PCA Visualization](https://github.com/ktchan33GBC/Advanced_ML_on_Google_Cloud/blob/main/Asset/pred_classifying%20Images_on_google_cloud.png)
+![Run On Cloud](https://github.com/ktchan33GBC/Advanced_ML_on_Google_Cloud/blob/main/Asset/pred_classifying%20Images_on_google_cloud2.png)
