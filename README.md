@@ -50,5 +50,5 @@ Specialization link: https://coursera.org/share/5e854f74b3d15b627e67d09e316bdb49
 + Gained practical experience in deploying and visualizing collaborative filtering models with principal components analysis,and running Model on Google Cloud
 
 
-![PCA Visualization](https://github.com/ktchan33GBC/Advanced_ML_on_Google_Cloud/blob/main/Asset/pred_classifying%20Images_on_google_cloud.png)
-![Run On Cloud](https://github.com/ktchan33GBC/Advanced_ML_on_Google_Cloud/blob/main/Asset/pred_classifying%20Images_on_google_cloud2.png)
+![PCA Visualization](https://github.com/ktchan33GBC/Advanced_ML_on_Google_Cloud/blob/main/Asset/collaborative%20filtering_google_Analytics_visual_pca.png)
+![Run On Cloud](https://github.com/ktchan33GBC/Advanced_ML_on_Google_Cloud/blob/main/Asset/collaborative%20filtering_google_analytics_run_on_cloud.png)
