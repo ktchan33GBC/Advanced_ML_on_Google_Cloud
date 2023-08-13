@@ -25,8 +25,8 @@ Specialization link: https://coursera.org/share/5e854f74b3d15b627e67d09e316bdb49
 
 ### 1.Classifying Images with pre-built TF Container on Vertex AI of Google Cloud  
 
-[Direct Link to Project](https://github.com/ktchan33GBC/Advanced_ML_on_Google_Cloud/blob/main/Course_2_Computer%20Vision%20Fundamentals%20with%20Google%20Cloud/W2/4.Classifying%20Images%20with%20pre-built%20TF%20Container%20on%20Vertex%20AI/classifying_images_with_pre-built_tf_container_on_vertex_ai.ipynb)
-[Data Source : MNIST image classification dataset](https://www.tensorflow.org/datasets/catalog/mnist)
++ [Direct Link to Project](https://github.com/ktchan33GBC/Advanced_ML_on_Google_Cloud/blob/main/Course_2_Computer%20Vision%20Fundamentals%20with%20Google%20Cloud/W2/4.Classifying%20Images%20with%20pre-built%20TF%20Container%20on%20Vertex%20AI/classifying_images_with_pre-built_tf_container_on_vertex_ai.ipynb)
++ [Data Source : MNIST image classification dataset](https://www.tensorflow.org/datasets/catalog/mnist)
 
 + Implemented and compared DNN and CNN models for accurate MNIST image classification.
 + Showcased the application of dropout techniques to improve DNN performance.
